@@ -1,5 +1,4 @@
 # Prompt-Classification
-**Overview**
 This project focuses on developing a prompt classification system by supervised fine-tuning a pre-trained language model, gemini-1.0-pro-002. The tuned model can successfully classify prompts into specific categories to enhance the efficiency and accuracy of natural language processing tasks.
 
 **Classes**
