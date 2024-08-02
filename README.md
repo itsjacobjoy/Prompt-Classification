@@ -21,10 +21,10 @@ The tuned model can classify the following classes:
 - Podcast Content Creation
 - Storytelling
 - Social Media Posts
-- Product Descriptions (repeated twice)
+- Product Descriptions 
 - SEO Optimization
 - Educational Content Creation
-- Presentation Creation (repeated twice)
+- Presentation Creation 
 - Email Generation
 - Legal Document Drafting
 - Contract Generation
