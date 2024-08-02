@@ -3,6 +3,10 @@ This project focuses on developing a prompt classification system by supervised 
 
 **P.S The training and evaluation metrics have been saved as the figures do not show in the github UI when displaying the .ipynb file**
 
+![image](https://github.com/user-attachments/assets/8ae05fbb-ea9f-46f6-a8e5-6c41bc53f4ab)
+![image](https://github.com/user-attachments/assets/624d2930-3972-4dbb-8968-aef492190ae6)
+
+
 ## Classes
 The tuned model can classify the following classes:
 
